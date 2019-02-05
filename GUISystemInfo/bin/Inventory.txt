@@ -1,7 +1,0 @@
-RR112,RR112-01,"MS-7A72",GA16959266,"Microsoft Windows 10 Pro",64,32GB,"Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz","3","None",
-Testing,Testing,"MS-7A72",GA16959266,"Microsoft Windows 10 Pro",64,32GB,"Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz","3","Testing",
-Test21,DESKTOP-8A2B0RC,"MS-7A72",GA16959266,"Microsoft Windows 10 Pro",64,32GB,"Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz","2","Testing",
-Testing,Computer123,"MS-7A72",GA16959266,"Microsoft Windows 10 Pro",64,32GB,"Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz","2"," Testing",
-,,"",N/A,"",,0GB,"","","",
-,,"",N/A,"",,0GB,"","","",
-,DESKTOP-8A2B0RC,"MS-7A72",GA16959266,"Microsoft Windows 10 Pro",64,32GB,"Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz","0"," ",
