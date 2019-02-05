@@ -1,1 +1,0 @@
-Testing,DESKTOP-8A2B0RC,"MS-7A72",GA16959266,"Microsoft Windows 10 Pro",64,32GB,"Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz","3"," Testing",
