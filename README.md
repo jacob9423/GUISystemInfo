@@ -1,7 +1,7 @@
 # GUISystemInfo
 A program that get's information from a windows PC and writes it to a CSV file.
 
-I made this program to help invinyory computers in my internship because I got tired of writing all the information down.
+I made this program to help Inventory computers in my internship because I got tired of writing all the information down.
 
 It did it's job well.
 
